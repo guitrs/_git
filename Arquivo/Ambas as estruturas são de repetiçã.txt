@@ -1,0 +1,2 @@
+
+O fluxograma feito na atividade 1 tem um estrutura de repetição e os fluxogramas da atividade 2 são estruturas de decisão.O fluxograma feito na atividade 1 e o segundo atividade 2 tem uma estrutura mais detalhada que o primeiro fluxograma desta atividade.
